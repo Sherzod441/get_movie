@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "movie_name": "otzvuki proshlogo",
+      "genre": "action",
+      "year": 2023,
+      "picture": "../images/kino.jpg"
+    },
+    {
+      "id": 2,
+      "movie_name": "krushenie",
+      "genre": "action",
+      "year": 2023,
+      "picture": "../images/kino.jpg"
+    },
+    {
+      "id": 3,
+      "movie_name": "avatar",
+      "genre": "drama",
+      "year": 2022,
+      "picture": "../images/kino.jpg"
+    },
+    {
+      "id": 4,
+      "movie_name": "qot v sopogax",
+      "genre": "komedia",
+      "year": 2022,
+      "picture": "../images/kino.jpg"
+    },
+    {
+        "id": 5,
+        "movie_name": "komedia kino bu",
+        "genre": "komedia",
+        "year": 2022,
+        "picture": "../images/kino.jpg"
+    },
+    {
+        "id": 6,
+        "movie_name": "drama kino bu",
+        "genre": "drama",
+        "year": 2022,
+        "picture": "../images/kino.jpg"
+    }
+   
+  ]

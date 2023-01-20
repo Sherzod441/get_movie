@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "movie_name": "otzvuki proshlogo",
+        "genre": "action",
+        "year": 2023,
+        "picture": "../images/kino.jpg"
+      },
+      {
+        "id": 2,
+        "movie_name": "krushenie",
+        "genre": "action",
+        "year": 2023,
+        "picture": "../images/kino.jpg"
+      }
+]

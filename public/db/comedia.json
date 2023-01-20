@@ -1,0 +1,16 @@
+[
+    {
+        "id": 4,
+        "movie_name": "qot v sopogax",
+        "genre": "komedia",
+        "year": 2022,
+        "picture": "../images/kino.jpg"
+      },
+      {
+          "id": 5,
+          "movie_name": "komedia kino bu",
+          "genre": "komedia",
+          "year": 2022,
+          "picture": "../images/kino.jpg"
+      }
+]

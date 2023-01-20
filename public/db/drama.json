@@ -1,0 +1,16 @@
+[
+    {
+        "id": 3,
+        "movie_name": "avatar",
+        "genre": "drama",
+        "year": 2022,
+        "picture": "../images/kino.jpg"
+      },
+      {
+        "id": 6,
+        "movie_name": "drama kino bu",
+        "genre": "drama",
+        "year": 2022,
+        "picture": "../images/kino.jpg"
+    }
+]
